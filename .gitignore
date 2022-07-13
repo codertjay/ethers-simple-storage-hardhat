@@ -1,1 +1,4 @@
 /node_modules
+.env
+encryptedKey.js
+/encryptedKey.js
